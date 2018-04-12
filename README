@@ -1,0 +1,3 @@
+ - `init.sql` - initialize environment, create empty database with empty `default` schema, add roles and users
+ - `update.sql` - modify to update after new tables or schemas
+ - `cleanup.sql` - delete all tables, roles and users
