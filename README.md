@@ -3,3 +3,6 @@
  - `cleanup.sql` - delete all tables, roles and users
 
  Do not forget to replace `YOURNAME_` and adjust the warehouse name.
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
